@@ -19,7 +19,7 @@
       </tr>
    </tbody>
 </table>
-<img align="left" height="250" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" >
+<img align="left" height="250" src="" >
 </div>
 
 
